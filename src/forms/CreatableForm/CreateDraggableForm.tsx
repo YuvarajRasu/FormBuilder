@@ -251,7 +251,6 @@ const CreateDraggableForm = () => {
     <div className="m-5">
       <div className="text-center">
         <p className="text-2xl font-bold">Form Builder</p>
-        <p className="text-gray-500">Form builder without any packages</p>
       </div>
       <div className="flex">
         <div className="w-[55%]">
